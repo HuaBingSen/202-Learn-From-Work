@@ -4,7 +4,7 @@ function transformMoneyNumber(num) {
     return zero.toFixed(2);
   }
 }
-
+// 1.
 // 未完待续...
 let moneyNumber = transformMoneyNumber(0);
 console.log(moneyNumber);
